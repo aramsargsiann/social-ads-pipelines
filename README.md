@@ -4,5 +4,3 @@ A collection of ETL pipelines for **Meta**, **Pinterest**, and **TikTok** Ads da
 Each pipeline automates extraction, transformation, and loading into BigQuery — built for scalability and transparency.
 
 ---
-
-## 📁 Project Structure
