@@ -9,6 +9,7 @@ models:
   - name: stg_jaffle_shop__orders
     columns:
       - name: order_id
+        data_tests:
          - unique
          - not_null
          
